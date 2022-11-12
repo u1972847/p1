@@ -12,7 +12,7 @@ In my project they will find all the basic information needed to know if they ar
 
 ### Information architecture
 
-It's just a single-page project, so there's not much analysis to do.<br />
+It's just a single-page project, so there's not much analysis to do.<br /><br />
 
 
 ### Visual design
