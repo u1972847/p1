@@ -8,10 +8,11 @@
 This project is made for users who are looking to hire on a specific IT field (SysAdmin/Software Developer). 
 In my project they will find all the basic information needed to know if they are interested in contacting/hiring me.
 
-<br /><br />
+<br />
+
 ### Information architecture
 
-It's just a single-page project, so there's not much analysis to do.<br /><br />
+It's just a single-page project, so there's not much analysis to do.<br />
 
 
 ### Visual design
