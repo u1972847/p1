@@ -1,0 +1,85 @@
+body{
+    width: 90%;
+	font-family : Century;
+ }
+
+ #main {
+    display: flex;
+    flex-direction: row; 
+ }
+
+ #left {
+    background-color: #eae8e9;
+ }
+ 
+ #content {
+    display: flex;
+    flex-direction: column;
+    margin: 10%;
+    margin-right:40px;
+    margin-top: 13%;
+
+  }
+  #right {
+    width: 190%;
+ }
+ h1 {
+   color:Black;
+   font-size:50px;
+   font-family : Century;
+ }
+
+ h3 {
+    margin-top: 5px;
+	
+ }
+
+ .inc{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+
+
+  #titols{
+    margin-top: 5px;
+	color:#5a86af;
+  }
+
+ 
+
+  img {
+    margin-bottom: 20px;
+  }
+
+  #InfoLeft {
+    margin-bottom: 30px;
+	
+
+  }
+  p#web,p#mail{
+	  white-space: nowrap;
+  }
+  
+
+
+  #education {
+    margin-left: 50px;
+    margin-bottom: 20px;
+  }
+
+
+  #introduction {
+    margin-left: 50px;
+    margin-bottom: 20px;
+  }
+  #experience {
+    margin-left: 50px;
+    margin-bottom: 20px;
+  }
+  hr{
+    border:none;
+    background-color: #9ab5cc;
+    height: 3px;
+  }
+
